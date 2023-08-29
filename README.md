@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/ee1ce3c7d43954f77a799.jpg" alt="Lazy Princess Logo">
 </p>
 <h1 align="center">
-  <b> ROLEX ROCKY BOT </b>
+  <b> Lazy Princess BOT </b>
 </h1>
 
 ## ⚡️Features
