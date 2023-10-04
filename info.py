@@ -129,7 +129,7 @@ DOWNLOAD_TEXT_URL = "https://t.me/Film_ShowCase/6"
 
 # Custom Caption Under Button #
 CAPTION_BUTTON = "Get Updates"
-CAPTION_BUTTON_URL = "https://t.me/movieluff"
+CAPTION_BUTTON_URL = "https://t.me/Film_ShowCase/6"
 
 LOG_STR = "Current Cusomized Configurations are:-\n"
 LOG_STR += ("IMDB Results are enabled, Bot will be showing imdb details for you queries.\n" if IMDB else "IMBD Results are disabled.\n")
